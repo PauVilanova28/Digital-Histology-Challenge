@@ -1,5 +1,4 @@
 # Digital Histology Challenge
-# Digital Histology Challenge
 
 ## 1. Introduction
 **Helicobacter pylori** is a bacterium with high global prevalence, strongly linked to various gastrointestinal conditions, including gastric cancer. This makes early diagnosis and prevention critical. Traditional diagnosis through visual examination of histopathological samples stained with immunohistochemistry is labor-intensive and limited by image size and staining variability.
